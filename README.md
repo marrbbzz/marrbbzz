@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi y'all 👋
 
-<!--
-**marrbbzz/marrbbzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Maria and I'm a Software Engineering student at Tampere University of Applied Sciences 👩‍💻.
 
-Here are some ideas to get you started:
+- I'm currently working on:
+  * 📱 Mobile App development using Android Studio
+  * ☁ AWS on AWS Academy Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skills: KOTLIN / JAVA / REACT / JS / HTML / CSS / SQL / C++ /
+
+<p align="center">
+
+  
+  <a href="#">
+    <img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  
+</p>
