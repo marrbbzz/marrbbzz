@@ -1,4 +1,4 @@
-# Hi y'all 👋
+# Hi 👋
 
 ## My name is Maria and I'm a Software Engineering student at Tampere University of Applied Sciences 👩‍💻.
 
