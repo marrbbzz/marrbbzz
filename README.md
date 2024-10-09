@@ -5,4 +5,4 @@
 - I'm currently working on:
   * 📱 Mobile App development using Swift
 
-My skills: KOTLIN / JAVA / REACT / JS / HTML / CSS / SQL / C++ /
+My skills: KOTLIN / JAVA / REACT / JS / HTML / CSS / SQL / C++ / SWIFT
