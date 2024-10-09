@@ -4,5 +4,6 @@
 
 - I'm currently working on:
   * 📱 Mobile App development using Swift
+  * :computer: Full Stack development
 
 My skills: KOTLIN / JAVA / REACT / JS / HTML / CSS / SQL / C++ / SWIFT
